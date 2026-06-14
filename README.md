@@ -26,10 +26,7 @@
 <div align="center">
 
 ![GitHub Stats](https://sts.stalux.top/api?username=UU-cmyk&show_icons=true&theme=radical&include_all_commits=true)
-
 ![Top Langs](https://sts.stalux.top/api/top-langs/?username=UU-cmyk&layout=donut&theme=tokyonight&include_all_commits=true)
-
-![WakaTime](https://sts.stalux.top/api/wakatime?username=UU_cmyk&theme=onedark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=UU-cmyk&theme=radical&hide_border=true)
+
 </div>
